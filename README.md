@@ -26,9 +26,16 @@ Run using: **java Solucion**
 
 If the user doesn't input arguments, the program runs with **8 queens**.
 
+![No Argument Execution](https://github.com/RedRichard/N-Queen-Problem/blob/master/programScreenshots/default.png)
+
 The user can specify the **number of queens** to run the program. By default
 the results are not printed:
 **java Solucion <num_queens>**
 
+![NumQueens Argument Execution](https://github.com/RedRichard/N-Queen-Problem/blob/master/programScreenshots/arguments.png)
+
 If the user wants to see the printed results:
+
 **java Solucion <num_queens> <-p>**
+
+![NumQueens and Print Argument Execution](https://github.com/RedRichard/N-Queen-Problem/blob/master/programScreenshots/arguments2.png)
